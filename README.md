@@ -4,7 +4,7 @@
 
 ### Hello guys👋 , I'm Athya!
 ```yaml
-* Currently I am open to any opportunity especially in IT as a Mobile Developer and iOS Developer. 
+* Currently I am open to any opportunity especially in IT as a Mobile Developer and UX or IX
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.   *
 ```
 ### Tools:
